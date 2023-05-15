@@ -209,7 +209,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Freelancer',
     company: '',
-    companyLogo: 'https://previews.dropbox.com/p/thumb/AB5lclb9Wi3cQa3UJmM_krVn8xVs_hBEH1MhZvzO8Feqj29UVYuL7H00PY_PQDDvZtYTVB2EtZXYnsRxL6ZN2VwcquXMCHJMoKHpsaxNf0Oeyj0TY3oxJ3UTruuIsfUcmNIkTqnu7sHJyz6dlz6XPwGMywyLg5pV-LgS4K8dWEYhGrlP_4OcKVEgH5jux_hUTcQAmcvxqpzb-z1wu7ZNfZ28co8na0dthlTE0DAKHCtXvNft1tmof1Zmol9A30tdozUpr3Xk3bzLrkpmoosGJ9TVT9mr_FKOyz1CGKZmNCSwNPSGVXJdlwcf4CQ7wjFsq3snRss-8RaK1A9AT_JlvzneRvmaTa9ZMgZkrM7oiTbtLR5em0lagaHkhsG0zx0FAhQ/p.jpeg',
+    companyLogo: 'https://media.istockphoto.com/id/1209859756/pt/vetorial/www-icon-go-to-web-website-icon-www-icon-with-hand-cursor-or-arrow-in-simple-flat-design.jpg?s=170667a&w=0&k=20&c=63jhpzTeLLeRLUAiJRu0fLa-uw8ZF-AFQzlrTbm4u-k=',
     date: '*',
     desc: 'Trabalhei como desenvolvedor freelancer em projetos pequenos na minha cidade, como landing pages ou sites institucioanais.',
   }
