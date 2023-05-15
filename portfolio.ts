@@ -189,7 +189,7 @@ export const projects: ProjectType[] = [
   {
     name: 'New Garden',
     desc: 'Site institucional/Landing Page construida para uma empresa de jardinagem Britanica',
-    github: 'https://rad-cobbler-9cabd7.netlify.app/',
+    link: 'https://rad-cobbler-9cabd7.netlify.app/',
   },
   {
     name: 'Portfolio SPA ',
