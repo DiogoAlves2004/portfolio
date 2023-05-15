@@ -42,12 +42,12 @@ export const ContactUs = () => {
     console.log('submitting');
 
     console.log(form.current);
+    
+    const emailJsServiceId = process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID;
 
-    const emailJsServiceId = 'service_ze48osa';
+    const emailJsTemplateId = process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID;
 
-    const emailJsTemplateId = 'template_73sfxhi';
-
-    const emailJsPublicKey = 'fA4l5F6Qo-nGAFIxr';
+    const emailJsPublicKey = process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY;
 
     if (
       emailJsServiceId &&
