@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     "Sou um desenvolvedor web Full Stack apaixonado, com experiência em aplicações web com PHP, Laravel, React.js, Next.js e desenvolvimento mobile em ReactNative. Dentre as linguagens eu domino Js/Ts, C# e o PHP",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    'https://drive.google.com/file/d/1S7qOwk9RAiqb3NMPSsx4ddSEZQsolSr5/view?usp=sharing',
 };
 
 export const openSource = {
@@ -217,14 +217,9 @@ export const experience: ExperienceType[] = [
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: 'John Smith',
+    name: 'New Garden',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
-  },
-  {
-    name: 'John Smith',
-    feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'Foi muito criativo, além de ter um site responsivo. Proporcionou-me um excelente profissionalismo e um design surpreendente.',
   },
 ];
 
@@ -233,19 +228,24 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Hanzla Tauqeer',
+  title: 'Diogo Alves - Fullstack',
   description:
-    'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+    'Um cativante desenvolvedor Fullstack apaixonado por interfaces intuitivas.',
+  author: 'Diogo Alves',
+  image: 'https://media.licdn.com/dms/image/D4D03AQF8BwtbnKT64w/profile-displayphoto-shrink_200_200/0/1675366933774?e=1689811200&v=beta&t=GN2_S6gFkhQ8kn4OT_3x-B_2XYKV05hp8RTff5T-SC0',
+  url: 'https://diogoalves.vercel.app/',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
-    '@1hanzla100',
-    '1hanzla100',
+    'Diogo',
+    'Diogo Alves',
+    'Frontend',
+    'Backend',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'PHP',
+    'Laravel',
+    'Next',
+    'Javascript',
+    'Developer',
+    'Junior developer',
+    'Deenvolvedor Junior',
   ],
 };
